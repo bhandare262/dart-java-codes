@@ -1,0 +1,36 @@
+void main(){
+  int month = 2;
+ if(month == 1){
+  print("january");
+}else if(month == 2){
+  print("february");
+}else if(month ==3){
+  print("march");
+}else if(month == 4){
+  print("april");
+}else if(month == 5){
+  print("may");
+}else if(month == 6){
+  print("june");
+}else if(month == 7){
+  print("july");
+}else if(month == 8){
+  print("august");
+}else if(month == 9){
+  print("september");
+}else if(month == 10){
+  print("october");
+}else if(month == 11){
+  print("november");
+}else if(month == 12){
+  print("december");
+}else {
+  print("invalid month");
+}
+}
+
+
+
+
+
+
