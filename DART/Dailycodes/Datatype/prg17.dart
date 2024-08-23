@@ -1,0 +1,11 @@
+void main(){
+dynamic x = "kanha";
+dynamic y = 10.5;
+dynamic z = 50;
+dynamic a = false;
+
+   print(x);
+   print(y);
+   print(z);
+   print(a);
+}
